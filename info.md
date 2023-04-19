@@ -1,4 +1,4 @@
 ###### Dosah
 
-- skrz 4 minimálně 8 metrů
+- skrz 4 zdi minimálně 8 metrů
 - bez překážek minimálně 15 m
